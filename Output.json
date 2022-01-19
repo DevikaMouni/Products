@@ -1,0 +1,26 @@
+[
+    {
+        "offer_id": 14579104677933,
+        "product_title": "99 Wh / Gold-Mount",
+        "sku": "14-0622",
+        "price": 529.0
+    },
+    {
+        "offer_id": 14579487277101,
+        "product_title": "99 Wh / V-Mount",
+        "sku": "14-0623",
+        "price": 529.0
+    },
+    {
+        "offer_id": 14579487309869,
+        "product_title": "156 Wh / Gold-Mount",
+        "sku": "14-0624",
+        "price": 679.0
+    },
+    {
+        "offer_id": 14579487342637,
+        "product_title": "156 Wh / V-Mount",
+        "sku": "14-0625",
+        "price": 679.0
+    }
+]
